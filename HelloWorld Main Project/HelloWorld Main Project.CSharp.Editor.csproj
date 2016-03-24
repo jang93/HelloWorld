@@ -102,6 +102,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="HelloWorld Main Project.CSharp.Plugins.csproj">
+      <Project>{34A5A6DA-2E5C-33C4-3444-A9ABF16B35C6}</Project>
+      <Name>HelloWorld Main Project.CSharp.Plugins</Name>
+    </ProjectReference>
     <ProjectReference Include="HelloWorld Main Project.CSharp.csproj">
       <Project>{562BBE0F-7251-F9F8-7B73-4188C87D13BE}</Project>
       <Name>HelloWorld Main Project.CSharp</Name>
@@ -109,6 +113,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
