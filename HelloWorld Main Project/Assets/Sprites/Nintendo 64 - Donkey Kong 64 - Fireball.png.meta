@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: 393b7ff24bb00b4448051a70c19ab470
+timeCreated: 1456834274
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nintendo 64 - Donkey Kong 64 - Fireball_0
+    21300002: Nintendo 64 - Donkey Kong 64 - Fireball_1
+    21300004: Nintendo 64 - Donkey Kong 64 - Fireball_2
+    21300006: Nintendo 64 - Donkey Kong 64 - Fireball_3
+    21300008: Nintendo 64 - Donkey Kong 64 - Fireball_4
+    21300010: Nintendo 64 - Donkey Kong 64 - Fireball_5
+    21300012: Nintendo 64 - Donkey Kong 64 - Fireball_6
+    21300014: Nintendo 64 - Donkey Kong 64 - Fireball_7
+    21300016: Nintendo 64 - Donkey Kong 64 - Fireball_8
+    21300018: Nintendo 64 - Donkey Kong 64 - Fireball_9
+    21300020: Nintendo 64 - Donkey Kong 64 - Fireball_10
+    21300022: Nintendo 64 - Donkey Kong 64 - Fireball_11
+    21300024: Nintendo 64 - Donkey Kong 64 - Fireball_12
+    21300026: Nintendo 64 - Donkey Kong 64 - Fireball_13
+    21300028: Nintendo 64 - Donkey Kong 64 - Fireball_14
+    21300030: Nintendo 64 - Donkey Kong 64 - Fireball_15
+    21300032: Nintendo 64 - Donkey Kong 64 - Fireball_16
+    21300034: Nintendo 64 - Donkey Kong 64 - Fireball_17
+    21300036: Nintendo 64 - Donkey Kong 64 - Fireball_18
+    21300038: Nintendo 64 - Donkey Kong 64 - Fireball_19
+    21300040: Nintendo 64 - Donkey Kong 64 - Fireball_20
+    21300042: Nintendo 64 - Donkey Kong 64 - Fireball_21
+    21300044: Nintendo 64 - Donkey Kong 64 - Fireball_22
+    21300046: Nintendo 64 - Donkey Kong 64 - Fireball_23
+    21300048: Nintendo 64 - Donkey Kong 64 - Fireball_24
+    21300050: Nintendo 64 - Donkey Kong 64 - Fireball_25
+    21300052: Nintendo 64 - Donkey Kong 64 - Fireball_26
+    21300054: Nintendo 64 - Donkey Kong 64 - Fireball_27
+    21300056: Nintendo 64 - Donkey Kong 64 - Fireball_28
+    21300058: Nintendo 64 - Donkey Kong 64 - Fireball_29
+    21300060: Nintendo 64 - Donkey Kong 64 - Fireball_30
+    21300062: Nintendo 64 - Donkey Kong 64 - Fireball_31
+    21300064: Nintendo 64 - Donkey Kong 64 - Fireball_32
+    21300066: Nintendo 64 - Donkey Kong 64 - Fireball_33
+    21300068: Nintendo 64 - Donkey Kong 64 - Fireball_34
+    21300070: Nintendo 64 - Donkey Kong 64 - Fireball_35
+    21300072: Nintendo 64 - Donkey Kong 64 - Fireball_36
+    21300074: Nintendo 64 - Donkey Kong 64 - Fireball_37
+    21300076: Nintendo 64 - Donkey Kong 64 - Fireball_38
+    21300078: Nintendo 64 - Donkey Kong 64 - Fireball_39
+    21300080: Nintendo 64 - Donkey Kong 64 - Fireball_40
+    21300082: Nintendo 64 - Donkey Kong 64 - Fireball_41
+    21300084: Nintendo 64 - Donkey Kong 64 - Fireball_42
+    21300086: Nintendo 64 - Donkey Kong 64 - Fireball_43
+    21300088: Nintendo 64 - Donkey Kong 64 - Fireball_44
+    21300090: Nintendo 64 - Donkey Kong 64 - Fireball_45
+    21300092: Nintendo 64 - Donkey Kong 64 - Fireball_46
+    21300094: Nintendo 64 - Donkey Kong 64 - Fireball_47
+    21300096: Nintendo 64 - Donkey Kong 64 - Fireball_48
+    21300098: Nintendo 64 - Donkey Kong 64 - Fireball_49
+    21300100: Nintendo 64 - Donkey Kong 64 - Fireball_50
+    21300102: Nintendo 64 - Donkey Kong 64 - Fireball_51
+    21300104: Nintendo 64 - Donkey Kong 64 - Fireball_52
+    21300106: Nintendo 64 - Donkey Kong 64 - Fireball_53
+    21300108: Nintendo 64 - Donkey Kong 64 - Fireball_54
+    21300110: Nintendo 64 - Donkey Kong 64 - Fireball_55
+    21300112: Nintendo 64 - Donkey Kong 64 - Fireball_56
+    21300114: Nintendo 64 - Donkey Kong 64 - Fireball_57
+    21300116: Nintendo 64 - Donkey Kong 64 - Fireball_58
+    21300118: Nintendo 64 - Donkey Kong 64 - Fireball_59
+    21300120: Nintendo 64 - Donkey Kong 64 - Fireball_60
+    21300122: Nintendo 64 - Donkey Kong 64 - Fireball_61
+    21300124: Nintendo 64 - Donkey Kong 64 - Fireball_62
+    21300126: Nintendo 64 - Donkey Kong 64 - Fireball_63
+    21300128: Nintendo 64 - Donkey Kong 64 - Fireball_64
+    21300130: Nintendo 64 - Donkey Kong 64 - Fireball_65
+    21300132: Nintendo 64 - Donkey Kong 64 - Fireball_66
+    21300134: Nintendo 64 - Donkey Kong 64 - Fireball_67
+    21300136: Nintendo 64 - Donkey Kong 64 - Fireball_68
+    21300138: Nintendo 64 - Donkey Kong 64 - Fireball_69
+    21300140: Nintendo 64 - Donkey Kong 64 - Fireball_70
+    21300142: Nintendo 64 - Donkey Kong 64 - Fireball_71
+    21300144: Nintendo 64 - Donkey Kong 64 - Fireball_72
+    21300146: Nintendo 64 - Donkey Kong 64 - Fireball_73
+    21300148: Nintendo 64 - Donkey Kong 64 - Fireball_74
+    21300150: Nintendo 64 - Donkey Kong 64 - Fireball_75
+    21300152: Nintendo 64 - Donkey Kong 64 - Fireball_76
+    21300154: Nintendo 64 - Donkey Kong 64 - Fireball_77
+    21300156: Nintendo 64 - Donkey Kong 64 - Fireball_78
+    21300158: Nintendo 64 - Donkey Kong 64 - Fireball_79
+    21300160: Nintendo 64 - Donkey Kong 64 - Fireball_80
+    21300162: Nintendo 64 - Donkey Kong 64 - Fireball_81
+    21300164: Nintendo 64 - Donkey Kong 64 - Fireball_82
+    21300166: Nintendo 64 - Donkey Kong 64 - Fireball_83
+    21300168: Nintendo 64 - Donkey Kong 64 - Fireball_84
+    21300170: Nintendo 64 - Donkey Kong 64 - Fireball_85
+    21300172: Nintendo 64 - Donkey Kong 64 - Fireball_86
+    21300174: Nintendo 64 - Donkey Kong 64 - Fireball_87
+    21300176: Nintendo 64 - Donkey Kong 64 - Fireball_88
+    21300178: Nintendo 64 - Donkey Kong 64 - Fireball_89
+    21300180: Nintendo 64 - Donkey Kong 64 - Fireball_90
+    21300182: Nintendo 64 - Donkey Kong 64 - Fireball_91
+    21300184: Nintendo 64 - Donkey Kong 64 - Fireball_92
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 31.5}
+        - {x: -30, y: 31.5}
+        - {x: -30, y: -23.5}
+        - {x: -27, y: -31.5}
+        - {x: 26, y: -31.5}
+        - {x: 30, y: -22.5}
+        - {x: 30, y: 30.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 215
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 31.5}
+        - {x: -30, y: -15.5}
+        - {x: -15, y: -31.5}
+        - {x: 24, y: -31.5}
+        - {x: 30, y: -19.5}
+        - {x: 30, y: 31.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 215
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 31.5}
+        - {x: -31, y: 18.5}
+        - {x: -31, y: -23.5}
+        - {x: -19, y: -31.5}
+        - {x: 22, y: -31.5}
+        - {x: 31, y: -15.5}
+        - {x: 31, y: 31.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 215
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 31.5}
+        - {x: -31, y: 19.5}
+        - {x: -31, y: -21.5}
+        - {x: -19, y: -31.5}
+        - {x: 31, y: -31.5}
+        - {x: 31, y: 31.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 215
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: -31.5, y: -31.5}
+        - {x: 23.5, y: -31.5}
+        - {x: 31.5, y: -18.5}
+        - {x: 31.5, y: 31.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 215
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 32}
+        - {x: -31.5, y: 28}
+        - {x: -31.5, y: -27}
+        - {x: -22.5, y: -32}
+        - {x: 24.5, y: -32}
+        - {x: 31.5, y: -22}
+        - {x: 31.5, y: 31}
+        - {x: 29.5, y: 32}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 215
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: -31.5, y: -29.5}
+        - {x: -29.5, y: -31.5}
+        - {x: 31.5, y: -31.5}
+        - {x: 31.5, y: 31.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 215
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: -31.5, y: -28.5}
+        - {x: -28.5, y: -31.5}
+        - {x: 31.5, y: -31.5}
+        - {x: 31.5, y: 30.5}
+        - {x: 26.5, y: 31.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_8
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 215
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: -31.5, y: -19.5}
+        - {x: -20.5, y: -31.5}
+        - {x: 30.5, y: -31.5}
+        - {x: 31.5, y: -25.5}
+        - {x: 31.5, y: 20.5}
+        - {x: 22.5, y: 31.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_9
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 215
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -10.5}
+        - {x: 31.5, y: -10.5}
+        - {x: 31.5, y: 16.5}
+        - {x: 24.5, y: 31.5}
+        - {x: -31.5, y: 31.5}
+        - {x: -31.5, y: -17.5}
+        - {x: -20.5, y: -31.5}
+        - {x: 12.5, y: -31.5}
+        - {x: 28.5, y: -26.5}
+        - {x: 31.5, y: -22.5}
+        - {x: 31.5, y: -10.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_10
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 215
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: -31.5, y: -26.5}
+        - {x: -30.5, y: -31.5}
+        - {x: 21.5, y: -31.5}
+        - {x: 31.5, y: -26.5}
+        - {x: 31.5, y: 24.5}
+        - {x: 25.5, y: 31.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 215
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 31.5}
+        - {x: -31.5, y: 28.5}
+        - {x: -31.5, y: -18.5}
+        - {x: -29.5, y: -31.5}
+        - {x: 16.5, y: -31.5}
+        - {x: 31.5, y: -27.5}
+        - {x: 31.5, y: 19.5}
+        - {x: 24.5, y: 31.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_12
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 215
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 31.5}
+        - {x: -28.5, y: 31.5}
+        - {x: -31.5, y: 29.5}
+        - {x: -31.5, y: -25.5}
+        - {x: -24.5, y: -31.5}
+        - {x: 13.5, y: -31.5}
+        - {x: 31.5, y: -24.5}
+        - {x: 31.5, y: 10.5}
+        - {x: 19.5, y: 30.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_13
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 215
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31.5}
+        - {x: -31.5, y: -25.5}
+        - {x: -30.5, y: -31.5}
+        - {x: 26.5, y: -31.5}
+        - {x: 31.5, y: -19.5}
+        - {x: 31.5, y: 14.5}
+        - {x: 26.5, y: 31.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_14
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 215
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 31.5}
+        - {x: -10, y: 31.5}
+        - {x: -12, y: 27.5}
+        - {x: -11, y: 30.5}
+        - {x: -11, y: 31.5}
+        - {x: -29, y: 31.5}
+        - {x: -31, y: 30.5}
+        - {x: -31, y: -28.5}
+        - {x: -27, y: -31.5}
+        - {x: 28, y: -31.5}
+        - {x: 31, y: -24.5}
+        - {x: 31, y: 12.5}
+        - {x: 30, y: 15.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_15
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 215
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 31.5}
+        - {x: -30, y: 31.5}
+        - {x: -30, y: -20.5}
+        - {x: -25, y: -31.5}
+        - {x: 21, y: -31.5}
+        - {x: 26, y: -26.5}
+        - {x: 30, y: -20.5}
+        - {x: 30, y: 17.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 173
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 172
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 172
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_25
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 172
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_26
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 172
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_30
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_32
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 172
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_33
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 172
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_34
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 172
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_35
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 171
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_36
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 171
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_37
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 171
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_38
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 171
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_39
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 171
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_40
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 171
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_41
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 171
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_42
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 171
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 125
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 125
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 125
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 125
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 125
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 125
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 125
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 125
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_52
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 125
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_53
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 125
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_54
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 125
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 125
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_56
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_57
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -14}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_58
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_59
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_60
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_61
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -14}
+        - {x: 16, y: -10}
+        - {x: 16, y: 16}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_62
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 125
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -15}
+        - {x: -15, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 16}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_63
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 126
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_64
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 128
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_65
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 128
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_66
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 129
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_67
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 131
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_68
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 132
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_69
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 132
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_70
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 133
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_71
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 134
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_72
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 134
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_73
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 135
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_75
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 79
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 79
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_78
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 79
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_79
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 79
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_80
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 79
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_81
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 78
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_82
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 78
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_83
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 78
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_84
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 156
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 60.5}
+        - {x: -78, y: -60.5}
+        - {x: 78, y: -60.5}
+        - {x: 78, y: 60.5}
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_86
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_87
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_88
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_90
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nintendo 64 - Donkey Kong 64 - Fireball_92
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

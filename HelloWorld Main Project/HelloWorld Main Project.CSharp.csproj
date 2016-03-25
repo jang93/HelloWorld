@@ -58,14 +58,14 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -100,12 +100,19 @@
     <Compile Include="Assets\CNControls\Scripts\Controllers\SimpleButton.cs" />
     <Compile Include="Assets\CNControls\Scripts\Controllers\SimpleJoystick.cs" />
     <Compile Include="Assets\CNControls\Scripts\Controllers\Touchpad.cs" />
+    <Compile Include="Assets\Dungeon Art Pack\AnimateSprite.cs" />
     <Compile Include="Assets\Scripts\AbilityUsage.cs" />
     <Compile Include="Assets\Scripts\CDbehave.cs" />
+    <Compile Include="Assets\Scripts\Destroyer.cs" />
+    <Compile Include="Assets\Scripts\FireBallController.cs" />
     <Compile Include="Assets\Scripts\PlayerMobileCon.cs" />
     <Compile Include="Assets\Scripts\PlayerMobility.cs" />
     <Compile Include="Assets\Scripts\SkillCD.cs" />
+    <Compile Include="Assets\Scripts\Spells.cs" />
     <Compile Include="Assets\Scripts\Teleport.cs" />
+    <Compile Include="Assets\Scripts\ZombieInput.cs" />
+    <Compile Include="Assets\Scripts\ZombieScript.cs" />
+    <Compile Include="Assets\Scripts\forcePushController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
