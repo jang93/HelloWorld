@@ -15,6 +15,13 @@ public class ZombieScript : MonoBehaviour
     //cached version of our physics rigid body.
     private Rigidbody2D cachedRigidBody2D;
 
+	public SpriteRenderer healthBar; 
+	public int maxHealth = 100;
+
+	private int health = 100;
+	private Vector2 healthScale;
+	public Action deathFunction = () => {};
+
     void Awake()
     {
     }
@@ -25,6 +32,8 @@ public class ZombieScript : MonoBehaviour
 
         this.animator = this.GetComponent<Animator>();
         this.cachedRigidBody2D = this.GetComponent<Rigidbody2D>();
+		healthScale=healthBar.transform.localScale;
+
     }
 
     public void Move(Vector2 movement)
@@ -53,4 +62,48 @@ public class ZombieScript : MonoBehaviour
 
     }
 
+
+	public void AdjustHealth(int amount) 
+	{
+		//adjust current health by amount.
+		this.health+=amount;
+
+		//make sure character can't surpass max health
+		if(this.health > this.maxHealth)
+		{
+			this.health = maxHealth;
+		}
+		else if(this.health <= 0)
+		{
+			//execute the death function 
+			this.deathFunction();
+		}
+
+		//update the health bar with new amount
+		this.UpdateHealthBar();
+	}
+
+
+	public int GetHealth()
+	{
+		return this.health;
+	}
+
+
+	private void UpdateHealthBar()
+	{
+		// Set the health bar color between Red and Green based on current health.
+		healthBar.material.color = Color.Lerp(Color.green, Color.red, 1 - this.GetHealth() * 0.01f);
+
+		// Set the scale of the health bar to be proportional to the player's health.
+		healthBar.transform.localScale = new Vector3(healthScale.x * this.GetHealth() * 0.01f, 1, 1);
+	}
+
 }
+
+
+
+
+
+
+
